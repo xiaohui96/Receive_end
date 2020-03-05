@@ -1,0 +1,21 @@
+﻿生成启动时间为 2019-05-10 15:01:20。
+     1>项目“H:\充电桩\2019-01-21\接收端\Serial\Comm\Comm.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         H:\VS2012\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Comm.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt serialport.cpp
+         serialport.cpp
+       Link:
+         H:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\充电桩\2019-01-21\接收端\Serial\Release\Comm.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:H:\VS2012\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"H:\充电桩\2019-01-21\接收端\Serial\Release\Comm.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\充电桩\2019-01-21\接收端\Serial\Release\Comm.lib" /MACHINE:X86 /SAFESEH Release\Comm.res
+         Release\Comm.obj
+         Release\CommDlg.obj
+         Release\myAlgorithm.obj
+         Release\serialport.obj
+         Release\stdafx.obj
+         Release\debug.obj
+         正在生成代码
+         已完成代码的生成
+         Comm.vcxproj -> H:\充电桩\2019-01-21\接收端\Serial\Release\Comm.exe
+     1>已完成生成项目“H:\充电桩\2019-01-21\接收端\Serial\Comm\Comm.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.44
